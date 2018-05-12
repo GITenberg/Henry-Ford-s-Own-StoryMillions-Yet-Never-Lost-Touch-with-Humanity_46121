@@ -1,0 +1,30 @@
+_repo: Henry-Ford-s-Own-StoryMillions-Yet-Never-Lost-Touch-with-Humanity_46121
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46121-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lane, Rose Wilder
+    birthdate: 1886
+    deathdate: 1968
+    gutenberg_agent_id: '43619'
+    url: http://www.gutenberg.org/2009/agents/43619
+    wikipedia: https://en.wikipedia.org/wiki/Rose_Wilder_Lane
+description: ''
+gutenberg_issued: '2014-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Businesspeople -- United States -- Biography'
+- !lcc 'HD'
+- !lcsh 'Automobile industry and trade -- United States -- History'
+- !lcsh 'Ford, Henry, 1863-1947'
+title: "Henry Ford's Own Story\r\nHow a Farmer Boy Rose to the Power that goes with\
+  \ Many Millions, Yet Never Lost Touch with Humanity"
+url: http://www.gutenberg.org/ebooks/46121
